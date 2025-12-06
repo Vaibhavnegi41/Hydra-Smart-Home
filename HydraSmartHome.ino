@@ -17,11 +17,11 @@ const char* ssid = "HiFi";
 const char* password = "12345";
 
 
-#define APP_KEY       "e5f45f6e-df54-464f-b552-814068b243bc"
-#define APP_SECRET    "beef06a8-bfc4-404f-bbcf-93f0190c8835-b19c6cd1-8806-41c6-ae76-439b79751b67"
-#define SWITCH_ID_1   "690f18aefb7ad926788957e6"
-#define SWITCH_ID_2   "690f198bfb7ad92678895829"
-#define SWITCH_ID_3   "690f19176cf03d7232c5cb18"
+#define APP_KEY       "e5f45f6e-df54-464f-b552-814068b243"
+#define APP_SECRET    "beef06a8-bfc4-404f-bbcf-93f0190c8835-b19c6cd1-8806-41c6-ae76-439b79751"
+#define SWITCH_ID_1   "690f18aefb7ad926788957"
+#define SWITCH_ID_2   "690f198bfb7ad926788929"
+#define SWITCH_ID_3   "690f19176cf03d7232cb18"
 
 
 #define RELAY_ACTIVE_LOW true
@@ -63,7 +63,7 @@ double latitude = 0.0, longitude = 0.0;
 
 
 WebServer server(80);
-const char* googleApiKey = "AIzaSyC6cCoDPuWb2G84Yy2I7f4xaN5e4xkNA98"; //google maps api key
+const char* googleApiKey = "AIzaSyC6cCoDPuWb2G84Yy2I7f4xaN5e4xk98"; //google maps api key
 
 
 Servo door1, door2, curtain;
