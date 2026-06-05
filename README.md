@@ -2,15 +2,7 @@
 
 <br/>
 
-```                                                                                                        
- m    mm     m mmmm   mmmmm    mm           mmmm  m    m   mm   mmmmm mmmmmmm        m    m  mmmm  m    m mmmmmm
- #    # "m m"  #   "m #   "#   ##          #"   " ##  ##   ##   #   "#   #           #    # m"  "m ##  ## #     
- #mmmm#  "#"   #    # #mmmm"  #  #         "#mmm  # ## #  #  #  #mmmm"   #           #mmmm# #    # # ## # #mmmmm
- #    #   #    #    # #   "m  #mm#             "# # "" #  #mm#  #   "m   #           #    # #    # # "" # #     
- #    #   #    #mmm"  #    " #    #        "mmm#" #    # #    # #    "   #           #    #  #mm#  #    # #mmmmm
-                                                                                                                
-                                                                                                                
-```
+🏠 HYDRA SMART HOME
 
 ### *Anchored on land. Floating on water. Powered by intelligence.*
 
