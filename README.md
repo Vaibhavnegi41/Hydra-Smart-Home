@@ -1,7 +1,5 @@
 <div align="center">
 
-<br/>
-
 🏠 HYDRA SMART HOME
 
 ### *Anchored on land. Floating on water. Powered by intelligence.*
