@@ -1,6 +1,8 @@
 <div align="center">
 
-🏠 HYDRA SMART HOME
+<br/>
+
+# 🏠 HYDRA SMART HOME
 
 ### *Anchored on land. Floating on water. Powered by intelligence.*
 
@@ -127,32 +129,6 @@ Inflatable buoyant tubes provide floatation while **dual paddle propulsion** ena
 
 ---
 
-## 📱 Web Dashboard
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  🏠 HYDRA SMART HOME          ● Connected    [Settings] │
-├─────────────────┬───────────────────────────────────────┤
-│  CONTROLS       │  LIVE GPS LOCATION                    │
-│                 │                                       │
-│  💡 Lights  ON  │         [  MAP  ]                    │
-│  🌀 Fan     OFF │                                       │
-│  🚪 Door    --  │  Lat: 28.7041°  Lng: 77.1025°        │
-│  🪟 Curtain --  │                                       │
-├─────────────────┼───────────────────────────────────────┤
-│  VEHICLE        │  SENSORS                              │
-│                 │                                       │
-│    [  ▲  ]      │  ⛽ Gas:    ✅ Safe (120 ppm)         │
-│  [◄] [■] [►]   │  🌧 Rain:   ⚠️  Detected              │
-│    [  ▼  ]      │  💧 Water:  ✅ Normal (12cm)          │
-│                 │  🌡 Press:  ✅ 1013 hPa               │
-├─────────────────┴───────────────────────────────────────┤
-│  LAST ACCESS EVENT:  John Doe — Face Match — 10:42 AM  │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 🏗️ System Architecture
 
 ```
@@ -245,7 +221,6 @@ DEVICE_ID_DOOR=your_device_id
 🔍  Rescue & surveillance units          📚  Research & educational demonstrations
 🌏  Remote area smart living solutions
 ```
-
 ---
 
 ## 🤝 Contributing
