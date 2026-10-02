@@ -2,7 +2,7 @@
 
 <br/>
 
-# 🏠 HYDRA SMART HOME
+# HYDRA SMART HOME
 
 ### *Anchored on land. Floating on water. Powered by intelligence.*
 
@@ -17,17 +17,17 @@
 
 ---
 
-## 📌 What is Hydra?
+## What is Hydra Smart Home?
 
 **Hydra Smart Home** is a next-generation **IoT + AI powered amphibious smart home system** capable of operating on both **land and water**. It combines smart automation, AI-based security, real-time safety monitoring, and disaster-resilient mobility — all controlled via a web-based dashboard and voice commands.
 
-> 💡 **The world's first disaster-adaptive smart home** — built to float, sense, and survive.
+>  **The world's first disaster-adaptive smart home** — built to float, sense, and survive.
 
 ---
 
-## 🚨 The Problem
+##  The Problem
 
-| ❌ Current Reality | ✅ Hydra's Solution |
+|  Current Reality |  Hydra's Solution |
 |---|---|
 | Homes fail completely during floods | Floats & moves autonomously during disasters |
 | No mobile smart living systems exist | Full amphibious mobility with GPS tracking |
@@ -37,11 +37,11 @@
 
 ---
 
-## 🧩 Core Modules
+##  Core Modules
 
 <br/>
 
-### 🔒 Smart Door Security
+###  Smart Door Security
 > **Face Recognition + RFID Access Control**
 
 Uses **OpenCV + DeepFace** for real-time facial recognition combined with RFID for dual-layer authentication. Every access event is logged with timestamp to the web dashboard.
@@ -52,7 +52,7 @@ Visitor Detected → Face Scan → Match? → Grant/Deny Access → Log Event
 
 ---
 
-### 🏡 Smart Home Automation
+###  Smart Home Automation
 > **Voice + Remote Control of All Appliances**
 
 Full control of lights, fans, doors, and curtains via the web dashboard or **Alexa voice commands** using Sinric Pro integration.
@@ -63,7 +63,7 @@ Voice Command / Dashboard → SinricPro → ESP32 → Relay Module → Appliance
 
 ---
 
-### 🌊 Flood Prediction & Autonomous Relocation
+###  Flood Prediction & Autonomous Relocation
 > **Multi-Sensor Early Warning System**
 
 Combines **Rain Sensor (FC-37)**, **Ultrasonic Water Level**, and **BMP280 Pressure** data to detect flood conditions and autonomously trigger relocation sequence.
@@ -74,7 +74,7 @@ Sensors → Threshold Breach? → Alert → Autonomous Motor Activation → Safe
 
 ---
 
-### 📍 GPS Tracking & Mobility
+###  GPS Tracking & Mobility
 > **Real-Time Location + Motorized Control**
 
 Live GPS coordinates via **NEO-6M module** displayed on web dashboard map. Manual override available for directional control.
@@ -85,23 +85,23 @@ GPS Module → ESP32 → Web Interface → Live Map Display
 
 ---
 
-### ⛽ Gas Detection
+###  Gas Detection
 > **LPG, Methane & Flammable Gas Sensing**
 
 **MQ2 sensor** continuously monitors for dangerous gas concentrations with instant web dashboard alerts and configurable threshold levels.
 
 ---
 
-### 🚤 Amphibious Design
+###  Amphibious Design
 > **Land-to-Water Transition System**
 
 Inflatable buoyant tubes provide floatation while **dual paddle propulsion** enables water navigation. 4× 12V gear motors handle land mobility.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Software
+###  Software
 
 | Layer | Technology | Role |
 |-------|-----------|------|
@@ -110,7 +110,7 @@ Inflatable buoyant tubes provide floatation while **dual paddle propulsion** ena
 | **Voice AI** | Sinric Pro + Amazon Alexa | Voice command processing |
 | **Dashboard** | HTML / CSS / JavaScript | Web control interface |
 
-### ⚙️ Hardware
+###  Hardware
 
 | Component | Spec | Purpose |
 |-----------|------|---------|
@@ -129,7 +129,7 @@ Inflatable buoyant tubes provide floatation while **dual paddle propulsion** ena
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
                         ┌──────────────────┐
@@ -160,7 +160,7 @@ Inflatable buoyant tubes provide floatation while **dual paddle propulsion** ena
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -213,17 +213,17 @@ DEVICE_ID_DOOR=your_device_id
 
 ---
 
-## 🌍 Real-World Applications
+##  Real-World Applications
 
 ```
-🏘️  Flood-prone residential areas        🧓  Elderly & disabled smart living
-⛑️  Disaster relief emergency shelters   🔬  Environmental monitoring stations
-🔍  Rescue & surveillance units          📚  Research & educational demonstrations
-🌏  Remote area smart living solutions
+  Flood-prone residential areas         Elderly & disabled smart living
+  Disaster relief emergency shelters    Environmental monitoring stations
+  Rescue & surveillance units           Research & educational demonstrations
+  Remote area smart living solutions
 ```
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -247,7 +247,7 @@ git push origin feature/amazing-feature
 
 <br/>
 
-**⭐ If you found this project useful, please give it a star on GitHub! ⭐**
+** If you found this project useful, please give it a star on GitHub! **
 
 <br/>
 
